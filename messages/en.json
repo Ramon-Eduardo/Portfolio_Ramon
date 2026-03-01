@@ -1,0 +1,85 @@
+{
+  "header": {
+    "home": "Home",
+    "about": "About",
+    "portfolio": "Portfolio",
+    "contact": "Contact",
+    "language": "Language:"
+  },
+  "profile": {
+    "position": "Frontend Web Developer",
+    "introduction": "Hello, I'm Ramon, a Brazilian frontend developer currently transitioning into the tech field, focusing on web development. I specialize in creating responsive and engaging user interfaces using HTML, CSS, SCSS style modules, JavaScript, React.js and Next.js",
+    "passion": "I'm passionate about building clean, accessible, and user-friendly digital experiences. As I grow in this field, I'm excited to collaborate, learn, and bring ideas to life through code.",
+    "cta": "View My Work",
+    "techTitle": "Trusted Technologies",
+    "badge": "Available for work"
+  },
+  "about": {
+    "title": "About me",
+    "introduction": "Hi, I'm Ramon — a Front-end Web Developer based in Minas Gerais, Brazil.",
+    "description": "Currently transitioning into the tech industry after professional experience in other sectors. This shift reflects my commitment to continuous learning and my passion for web development. I completed a full frontend web development bootcamp, where I learned and applied core concepts of HTML, CSS, JavaScript, and React. I also deepened my knowledge of SCSS and began exploring Next.js with guidance from my cousin, a mid-level frontend developer.",
+    "present": {
+      "education": "Currently, I am enrolled and studying for a technologist degree in Analysis and Systems Development at Centro Universitário Padre Anchieta, expected to graduate in 2027.",
+      "goals": "My goal is to become a well-rounded developer by enhancing my skills and expanding my knowledge through new technologies and frameworks. I am committed to becoming a complete professional who can effectively contribute to projects and teams, and I'm open to opportunities that enable me to grow and apply my expertise in challenging environments."
+    },
+    "closing": "I'm eager to learn new technologies, collaborate with teams, and apply solid development principles. I'm currently seeking my first professional opportunity as a frontend developer, where I can contribute with dedication, grow alongside the team, and help turn ideas into high-quality digital solutions.",
+    "cv_pt": "CV Portuguese",
+    "cv_en": "Resume English"
+  },
+  "portfolio": {
+    "title": "Completed Projects",
+    "subtitle": "Selected works and personal projects",
+    "viewCode": "View Code",
+    "projects": {
+      "portfolio": {
+        "title": "Personal Portfolio",
+        "description": "My personal portfolio developed with Next.js, TypeScript, and SCSS Modules, focusing on performance and modern design."
+      },
+      "recipes": {
+        "title": "Recipes Website",
+        "description": "Themed recipe website developed with HTML, CSS, and JavaScript, focusing on modular organization and intuitive navigation. (Non-responsive project)",
+        "projectActions": {
+          "view": "View project",
+          "source": "Source code",
+          "visit": "Visit site"
+        }
+      },
+      "reencontrow": {
+        "title": "Reencontrow Website",
+        "description": "Modern web application in React and Vite, using Sass (SCSS) for modular styling based on Figma designs. (Non-responsive project)",
+        "projectActions": {
+          "view": "View project",
+          "source": "Source code",
+          "visit": "Visit site"
+        }
+      }
+    }
+  },
+  "contacts": {
+    "title": "Contact",
+    "subtitle": "Let's Work Together",
+    "description": "I'm currently available for freelance projects and full-time roles. If you have a project that needs some creative touch, feel free to reach out.",
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "subject": "Subject",
+      "message": "Message",
+      "send": "Send Message",
+      "placeholder": {
+        "name": "John Doe",
+        "email": "john@example.com",
+        "subject": "Project inquiry",
+        "message": "Tell me about your project..."
+      }
+    },
+    "info": {
+      "email": "ramoneduardo.contato@gmail.com",
+      "location": "Belo Horizonte - MG, Brazil",
+      "whatsapp": "(+55) 31 99475-8935",
+      "phone": "+55 (31) 99475-8935"
+    }
+  },
+  "footer": {
+    "rights": "All rights reserved."
+  }
+}
